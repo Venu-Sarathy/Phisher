@@ -20,7 +20,7 @@
 * `apt update`
 * `apt install git -y`
 * `git clone git://github.com/Venu-Sarathy/Phisher.git`
-* `cd nexphisher`
+* `cd Phisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
 #### > Run : `bash nexphisher`
